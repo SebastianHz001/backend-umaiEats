@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "64570b484d3b72b5b69a9d11"
+  },
+  "nombre": "Sebastian",
+  "apellido": "Hernandez",
+  "email": "sh@gmail.com",
+  "password": "142536",
+  "fechaNacimiento": "2000-03-20",
+  "genero": "Masculino",
+  "direccion": "Blv. suyapa, Tegucigalpa",
+  "telefono": "95645882",
+  "ordenes": [],
+  "__v": 0
+}]

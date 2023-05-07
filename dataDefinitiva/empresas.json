@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "6457092e5af9e30bf84fd8f3"
+  },
+  "nombre": "McDonald's",
+  "categoria": "Restaurantes",
+  "logo": "McDonalds-logo.png",
+  "ubicacion": "Tegucigalpa, Honduras",
+  "productos": [
+    {
+      "_id": "6457080b5af9e30bf84fd8e5",
+      "nombre": "Big Mac",
+      "descripcion": "Hamburguesa con dos carnes, lechuga, queso, salsa especial y pepinillo…",
+      "imagen": "bigmac-food.png",
+      "precio": 120
+    },
+    {
+      "_id": "6457080b5af9e30bf84fd8e6",
+      "nombre": "Whopper",
+      "descripcion": "Hamburguesa con carne a la parrilla, tomate, lechuga, cebolla y mayonesa.",
+      "imagen": "bigmac-food.png",
+      "precio": 100
+    },
+    {
+      "_id": "6457080b5af9e30bf84fd8e8",
+      "nombre": "McNuggets",
+      "descripcion": "Nuggets de pollo empanizados, perfectos para compartir.",
+      "imagen": "bigmac-food.png",
+      "precio": 80
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6457092e5af9e30bf84fd8f4"
+  },
+  "nombre": "Burger King",
+  "categoria": "Restaurantes",
+  "logo": "McDonalds-logo.png",
+  "ubicacion": "San Pedro Sula, Honduras",
+  "productos": [
+    {
+      "_id": "6457080b5af9e30bf84fd8e9",
+      "nombre": "Whopper Jr",
+      "descripcion": "Una versión más pequeña del clásico Whopper.",
+      "imagen": "bigmac-food.png",
+      "precio": 75
+    },
+    {
+      "_id": "6457080b5af9e30bf84fd8ea",
+      "nombre": "Cheeseburger",
+      "descripcion": "Hamburguesa con queso derretido, lechuga, tomate y cebolla.",
+      "imagen": "bigmac-food.png",
+      "precio": 65
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6457092e5af9e30bf84fd8f5"
+  },
+  "nombre": "Pizza Hut",
+  "categoria": "Restaurantes",
+  "logo": "McDonalds-logo.png",
+  "ubicacion": "Tegucigalpa, Honduras",
+  "productos": [
+    {
+      "_id": "6457080b5af9e30bf84fd8eb",
+      "nombre": "Pizza Hawaiana",
+      "descripcion": "Pizza con salsa de tomate, queso, jamón y piña.",
+      "imagen": "bigmac-food.png",
+      "precio": 120
+    },
+    {
+      "_id": "6457080b5af9e30bf84fd8e7",
+      "nombre": "Pepperoni Lover's Pizza",
+      "descripcion": "Pizza con salsa de tomate, queso, pepperoni y más pepperoni.",
+      "imagen": "bigmac-food.png",
+      "precio": 150
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64570ac65af9e30bf84fd8f6"
+  },
+  "nombre": "Starbucks",
+  "categoria": "Cafetería",
+  "logo": "logo_starbucks.png",
+  "ubicacion": "Tegucigalpa",
+  "productos": [
+    {
+      "_id": "645708155af9e30bf84fd8ec",
+      "nombre": "coffee.png",
+      "descripcion": "Café suave y cremoso con leche",
+      "imagen": "coffee.png",
+      "precio": 90
+    },
+    {
+      "_id": "645708155af9e30bf84fd8ed",
+      "nombre": "Caramel Macchiato",
+      "descripcion": "Espresso con leche al vapor, caramelo y un toque de vainilla",
+      "imagen": "coffee.png",
+      "precio": 100
+    },
+    {
+      "_id": "645708155af9e30bf84fd8ee",
+      "nombre": "Frappuccino",
+      "descripcion": "Mezcla de café, hielo, leche y sabores variados",
+      "imagen": "coffee.png",
+      "precio": 80
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64570ac65af9e30bf84fd8f7"
+  },
+  "nombre": "Dunkin Donuts",
+  "categoria": "Cafetería",
+  "logo": "logo_dunkin_donuts.png",
+  "ubicacion": "Tegucigalpa",
+  "productos": [
+    {
+      "_id": "645708155af9e30bf84fd8ef",
+      "nombre": "Donut de Chocolate",
+      "descripcion": "Donut glaseado con delicioso chocolate",
+      "imagen": "dunkin.png",
+      "precio": 40
+    },
+    {
+      "_id": "645708155af9e30bf84fd8f0",
+      "nombre": "Café con Leche",
+      "descripcion": "Café fuerte con leche caliente",
+      "imagen": "dunkin.png",
+      "precio": 50
+    },
+    {
+      "_id": "645708155af9e30bf84fd8f1",
+      "nombre": "Bagel de Queso",
+      "descripcion": "Bagel horneado con queso derretido",
+      "imagen": "dunkin.png",
+      "precio": 80
+    }
+  ]
+}]

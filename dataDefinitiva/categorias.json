@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64570adb5af9e30bf84fd8fc"
+  },
+  "nombreCategoria": "Restaurantes",
+  "empresas": [
+    {
+      "_id": "64542714de1468e00fa9ae90"
+    },
+    {
+      "_id": "64542714de1468e00fa9ae91"
+    },
+    {
+      "-id": "64542714de1468e00fa9ae92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64570adb5af9e30bf84fd8fd"
+  },
+  "nombreCategoria": "Cafetería",
+  "empresas": [
+    {
+      "_id": "6455da72dbc9048213006062"
+    },
+    {
+      "_id": "6455da72dbc9048213006063"
+    }
+  ]
+}]

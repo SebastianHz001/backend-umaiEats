@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "64570c424d3b72b5b69a9d23"
+  },
+  "nombre": "Caramel Macchiato",
+  "imagen": "coffee.png",
+  "precio": 100,
+  "idCliente": {
+    "$oid": "64570b484d3b72b5b69a9d11"
+  },
+  "idMotorista": " ",
+  "logoEmpresa": "logo_starbucks.png",
+  "cantidad": 1,
+  "estado": "Pendiente",
+  "ubicacion": "Blv. suyapa, Tegucigalpa",
+  "__v": 0
+}]

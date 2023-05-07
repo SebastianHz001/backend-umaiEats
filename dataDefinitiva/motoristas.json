@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "64572bc05af9e30bf84fd912"
+  },
+  "nombre": "juan",
+  "apellido": "smith",
+  "email": "juan@gmail.com",
+  "password": "789456",
+  "edad": "XX",
+  "fechaNacimiento": "10/12/1995",
+  "ciudad": "Tegucigalpa",
+  "motocicleta": "pulsar",
+  "placa": "ABC123",
+  "ordenes": []
+}]
